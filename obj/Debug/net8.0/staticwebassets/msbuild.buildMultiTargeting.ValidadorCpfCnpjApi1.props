@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ValidadorCpfCnpjApi1.props" />
+</Project>

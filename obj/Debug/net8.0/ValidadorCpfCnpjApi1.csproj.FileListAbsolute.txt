@@ -1,0 +1,120 @@
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.csproj.AssemblyReference.cache
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.AssemblyInfoInputs.cache
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.AssemblyInfo.cs
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.csproj.CoreCompileInputs.cache
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\appsettings.json
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\ValidadorCpfCnpjApi1.exe
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\ValidadorCpfCnpjApi1.deps.json
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\ValidadorCpfCnpjApi1.runtimeconfig.json
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\ValidadorCpfCnpjApi1.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\ValidadorCpfCnpjApi1.pdb
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\staticwebassets\msbuild.ValidadorCpfCnpjApi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\staticwebassets\msbuild.build.ValidadorCpfCnpjApi1.props
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ValidadorCpfCnpjApi1.props
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ValidadorCpfCnpjApi1.props
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\scopedcss\bundle\ValidadorCpfCnpjApi1.styles.css
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\Validado.1EB0D39C.Up2Date
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\refint\ValidadorCpfCnpjApi1.dll
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.pdb
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ValidadorCpfCnpjApi1.genruntimeconfig.cache
+C:\Users\naiar\ValidadorCpfCnpjApi1\obj\Debug\net8.0\ref\ValidadorCpfCnpjApi1.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\refint\ValidadorCpfCnpjApi1.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.pdb
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\appsettings.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\ValidadorCpfCnpjApi1.exe
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\ValidadorCpfCnpjApi1.deps.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\ValidadorCpfCnpjApi1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\ValidadorCpfCnpjApi1.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\ValidadorCpfCnpjApi1.pdb
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\staticwebassets\msbuild.ValidadorCpfCnpjApi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\staticwebassets\msbuild.build.ValidadorCpfCnpjApi1.props
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ValidadorCpfCnpjApi1.props
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ValidadorCpfCnpjApi1.props
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\scopedcss\bundle\ValidadorCpfCnpjApi1.styles.css
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\Validado.1EB0D39C.Up2Date
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ValidadorCpfCnpjApi1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\obj\Debug\net8.0\ref\ValidadorCpfCnpjApi1.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\User\OneDrive\Desktop\Validador Documento\ValidadorCpfCnpj\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\appsettings.json
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\ValidadorCpfCnpjApi1.exe
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\ValidadorCpfCnpjApi1.deps.json
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\ValidadorCpfCnpjApi1.runtimeconfig.json
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\ValidadorCpfCnpjApi1.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\ValidadorCpfCnpjApi1.pdb
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\naiar\ValidaDoc\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.csproj.AssemblyReference.cache
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.AssemblyInfoInputs.cache
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.AssemblyInfo.cs
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.csproj.CoreCompileInputs.cache
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\staticwebassets\msbuild.ValidadorCpfCnpjApi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\staticwebassets\msbuild.build.ValidadorCpfCnpjApi1.props
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ValidadorCpfCnpjApi1.props
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ValidadorCpfCnpjApi1.props
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\scopedcss\bundle\ValidadorCpfCnpjApi1.styles.css
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\Validado.1EB0D39C.Up2Date
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.dll
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\refint\ValidadorCpfCnpjApi1.dll
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.pdb
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ValidadorCpfCnpjApi1.genruntimeconfig.cache
+C:\Users\naiar\ValidaDoc\obj\Debug\net8.0\ref\ValidadorCpfCnpjApi1.dll

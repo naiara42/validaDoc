@@ -1,0 +1,108 @@
+2024-07-10 10:34:21.083 -03:00 [INF] Starting web host
+2024-07-10 10:34:25.544 -03:00 [INF] ****************************************
+2024-07-10 10:34:25.548 -03:00 [INF] *    Aplicação iniciada com sucesso!   *
+2024-07-10 10:34:25.550 -03:00 [INF] ****************************************
+2024-07-10 10:34:26.421 -03:00 [INF] Now listening on: http://localhost:5193
+2024-07-10 10:34:26.437 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 10:34:26.441 -03:00 [INF] Hosting environment: Development
+2024-07-10 10:34:26.443 -03:00 [INF] Content root path: C:\Users\naiar\ValidaDoc
+2024-07-10 10:34:41.807 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger - null null
+2024-07-10 10:34:41.845 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger - 301 0 null 40.9679ms
+2024-07-10 10:34:41.853 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/index.html - null null
+2024-07-10 10:34:41.960 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/index.html - 200 null text/html;charset=utf-8 106.7718ms
+2024-07-10 10:34:41.974 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/swagger-ui-standalone-preset.js - null null
+2024-07-10 10:34:41.974 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/swagger-ui.css - null null
+2024-07-10 10:34:41.974 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/swagger-ui-bundle.js - null null
+2024-07-10 10:34:42.034 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-07-10 10:34:42.034 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-07-10 10:34:42.037 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 63.1295ms
+2024-07-10 10:34:42.039 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/swagger-ui.css - 200 152034 text/css 64.5321ms
+2024-07-10 10:34:42.039 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-07-10 10:34:42.053 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 78.8334ms
+2024-07-10 10:34:42.482 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/favicon-32x32.png - null null
+2024-07-10 10:34:42.482 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/v1/swagger.json - null null
+2024-07-10 10:34:42.485 -03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-07-10 10:34:42.490 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/favicon-32x32.png - 200 628 image/png 8.0591ms
+2024-07-10 10:34:42.596 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.2542ms
+2024-07-10 10:34:57.850 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/api/validador/validar/04671884160 - null null
+2024-07-10 10:34:57.899 -03:00 [INF] Handling request: GET /api/validador/validar/04671884160
+2024-07-10 10:34:57.907 -03:00 [INF] Executing endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:34:57.973 -03:00 [INF] Route matched with {action = "Validar", controller = "Validador"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(System.String) on controller ValidadorCpfCnpjApi1.Controllers.ValidadorController (ValidadorCpfCnpjApi1).
+2024-07-10 10:34:58.034 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-07-10 10:34:58.050 -03:00 [INF] Executed action ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1) in 58.0668ms
+2024-07-10 10:34:58.055 -03:00 [INF] Executed endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:34:58.059 -03:00 [INF] Finished handling request.
+2024-07-10 10:34:58.066 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/api/validador/validar/04671884160 - 200 null text/plain; charset=utf-8 216.5015ms
+2024-07-10 10:35:09.678 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/api/validador/validar/04671884161 - null null
+2024-07-10 10:35:09.683 -03:00 [INF] Handling request: GET /api/validador/validar/04671884161
+2024-07-10 10:35:09.685 -03:00 [INF] Executing endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:35:09.688 -03:00 [INF] Route matched with {action = "Validar", controller = "Validador"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(System.String) on controller ValidadorCpfCnpjApi1.Controllers.ValidadorController (ValidadorCpfCnpjApi1).
+2024-07-10 10:35:09.705 -03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-07-10 10:35:09.709 -03:00 [INF] Executed action ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1) in 15.1879ms
+2024-07-10 10:35:09.717 -03:00 [INF] Executed endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:35:09.720 -03:00 [INF] Finished handling request.
+2024-07-10 10:35:09.723 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/api/validador/validar/04671884161 - 400 null text/plain; charset=utf-8 45.1295ms
+2024-07-10 10:36:20.176 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/api/validador/validar/61.184.935/0001-60 - null null
+2024-07-10 10:36:20.184 -03:00 [INF] Handling request: GET /api/validador/validar/61.184.935/0001-60
+2024-07-10 10:36:20.186 -03:00 [INF] Finished handling request.
+2024-07-10 10:36:20.194 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/api/validador/validar/61.184.935/0001-60 - 404 0 null 18.0004ms
+2024-07-10 10:36:20.209 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5193/api/validador/validar/61.184.935/0001-60, Response status code: 404
+2024-07-10 10:36:37.800 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/api/validador/validar/61.184.935%2F0001-60 - null null
+2024-07-10 10:36:37.808 -03:00 [INF] Handling request: GET /api/validador/validar/61.184.935%2F0001-60
+2024-07-10 10:36:37.810 -03:00 [INF] Executing endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:36:37.813 -03:00 [INF] Route matched with {action = "Validar", controller = "Validador"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(System.String) on controller ValidadorCpfCnpjApi1.Controllers.ValidadorController (ValidadorCpfCnpjApi1).
+2024-07-10 10:36:37.828 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-07-10 10:36:37.834 -03:00 [INF] Executed action ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1) in 9.6329ms
+2024-07-10 10:36:37.838 -03:00 [INF] Executed endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:36:37.841 -03:00 [INF] Finished handling request.
+2024-07-10 10:36:37.843 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/api/validador/validar/61.184.935%2F0001-60 - 200 null text/plain; charset=utf-8 42.9973ms
+2024-07-10 10:41:57.719 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/api/validador/validar/arrox - null null
+2024-07-10 10:41:57.723 -03:00 [INF] Handling request: GET /api/validador/validar/arrox
+2024-07-10 10:41:57.725 -03:00 [INF] Executing endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:41:57.728 -03:00 [INF] Route matched with {action = "Validar", controller = "Validador"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(System.String) on controller ValidadorCpfCnpjApi1.Controllers.ValidadorController (ValidadorCpfCnpjApi1).
+2024-07-10 10:41:57.733 -03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-07-10 10:41:57.744 -03:00 [INF] Executed action ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1) in 12.2016ms
+2024-07-10 10:41:57.749 -03:00 [INF] Executed endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 10:41:57.753 -03:00 [INF] Finished handling request.
+2024-07-10 10:41:57.755 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/api/validador/validar/arrox - 400 null text/plain; charset=utf-8 36.1906ms
+2024-07-10 14:35:58.496 -03:00 [INF] Starting web host
+2024-07-10 14:36:04.804 -03:00 [INF] ****************************************
+2024-07-10 14:36:04.806 -03:00 [INF] *    Aplicação iniciada com sucesso!   *
+2024-07-10 14:36:04.807 -03:00 [INF] ****************************************
+2024-07-10 14:36:05.971 -03:00 [INF] Now listening on: http://localhost:5193
+2024-07-10 14:36:05.977 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 14:36:05.978 -03:00 [INF] Hosting environment: Development
+2024-07-10 14:36:05.979 -03:00 [INF] Content root path: C:\Users\naiar\ValidaDoc
+2024-07-10 14:37:30.902 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5193/api/validador/validar - application/json 41
+2024-07-10 14:37:30.998 -03:00 [INF] Handling request: POST /api/validador/validar
+2024-07-10 14:37:31.009 -03:00 [INF] Executing endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 14:37:31.068 -03:00 [INF] Route matched with {action = "Validar", controller = "Validador"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(ValidadorCpfCnpjApi1.Controllers.ValidacaoRequest) on controller ValidadorCpfCnpjApi1.Controllers.ValidadorController (ValidadorCpfCnpjApi1).
+2024-07-10 14:37:31.224 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-07-10 14:37:31.245 -03:00 [INF] Executed action ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1) in 159.3142ms
+2024-07-10 14:37:31.259 -03:00 [INF] Executed endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 14:37:31.261 -03:00 [INF] Finished handling request.
+2024-07-10 14:37:31.267 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5193/api/validador/validar - 200 null text/plain; charset=utf-8 371.5289ms
+2024-07-10 14:37:51.105 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5193/api/validador/validar - application/json 34
+2024-07-10 14:37:51.113 -03:00 [INF] Handling request: POST /api/validador/validar
+2024-07-10 14:37:51.115 -03:00 [INF] Executing endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 14:37:51.119 -03:00 [INF] Route matched with {action = "Validar", controller = "Validador"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(ValidadorCpfCnpjApi1.Controllers.ValidacaoRequest) on controller ValidadorCpfCnpjApi1.Controllers.ValidadorController (ValidadorCpfCnpjApi1).
+2024-07-10 14:37:51.135 -03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-07-10 14:37:51.144 -03:00 [INF] Executed action ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1) in 12.5175ms
+2024-07-10 14:37:51.148 -03:00 [INF] Executed endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 14:37:51.150 -03:00 [INF] Finished handling request.
+2024-07-10 14:37:51.154 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5193/api/validador/validar - 400 null text/plain; charset=utf-8 47.8943ms
+2024-07-10 14:38:03.105 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5193/api/validador/validar - application/json 34
+2024-07-10 14:38:03.113 -03:00 [INF] Handling request: POST /api/validador/validar
+2024-07-10 14:38:03.115 -03:00 [INF] Executing endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 14:38:03.119 -03:00 [INF] Route matched with {action = "Validar", controller = "Validador"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Validar(ValidadorCpfCnpjApi1.Controllers.ValidacaoRequest) on controller ValidadorCpfCnpjApi1.Controllers.ValidadorController (ValidadorCpfCnpjApi1).
+2024-07-10 14:38:03.132 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-07-10 14:38:03.135 -03:00 [INF] Executed action ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1) in 8.7607ms
+2024-07-10 14:38:03.141 -03:00 [INF] Executed endpoint 'ValidadorCpfCnpjApi1.Controllers.ValidadorController.Validar (ValidadorCpfCnpjApi1)'
+2024-07-10 14:38:03.150 -03:00 [INF] Finished handling request.
+2024-07-10 14:38:03.155 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5193/api/validador/validar - 200 null text/plain; charset=utf-8 50.2715ms
+2024-07-10 14:38:24.796 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/v1/swagger.json - null null
+2024-07-10 14:38:25.057 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 260.6154ms
+2024-07-10 14:38:29.657 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/index.html - null null
+2024-07-10 14:38:29.798 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/index.html - 200 null text/html;charset=utf-8 140.6864ms
+2024-07-10 14:38:29.878 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5193/swagger/v1/swagger.json - null null
+2024-07-10 14:38:29.885 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5193/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.2768ms
